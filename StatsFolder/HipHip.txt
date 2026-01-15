@@ -1,0 +1,7 @@
+danceability-- mean_value:0.7608533333333334  std_deviation:0.08813651431475808
+energy-- mean_value:0.6505333333333333  std_deviation:0.13053493359591098
+loudness-- mean_value:-7.122746666666667  std_deviation:2.371106645110862
+speechiness-- mean_value:0.19881066666666666  std_deviation:0.1305064949324575
+acousticness-- mean_value:0.2542486666666666  std_deviation:0.21727129504122003
+liveness-- mean_value:0.16053333333333333  std_deviation:0.10687300916924203
+valence-- mean_value:0.5560399999999999  std_deviation:0.19326689249153184
